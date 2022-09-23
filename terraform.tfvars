@@ -1,0 +1,8 @@
+rgname = "tftest"
+rglocation = "eastus"
+storagename = "tfstorage321321"
+prefix = "tfvn"
+vnet_cidr_prefix = "10.10.0.0/16"
+subnettf_cidr_prefix = "10.10.1.0/24"
+appservice  = "tfappservice"
+appserviceplan = "tfappserviceplan"
